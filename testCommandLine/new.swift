@@ -10,5 +10,6 @@ import Foundation
 final class New {
 	func test() {
 		print("merge conflict")
+		
 	}
 }
