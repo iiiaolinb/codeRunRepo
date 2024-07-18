@@ -8,5 +8,7 @@
 import Foundation
 
 final class New {
-	print("for task1")
+	func test() {
+		print("merge conflict")
+	}
 }
